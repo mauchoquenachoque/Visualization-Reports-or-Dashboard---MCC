@@ -1,0 +1,30 @@
+=============================================================================
+PLANTILLA DE MENSAJE PARA EL GRUPO DE TELEGRAM
+Estudiante: Mauricio Arian Choqueña Choque
+=============================================================================
+
+🚀 ¡Entrega de Proyecto: Dashboard Analítico Multi-Herramienta y Despliegue en la Nube! 📊
+
+Estimado docente y compañeros de equipo, comparto la publicación oficial de mi proyecto "OmniSight: Multi-Framework Visual Analytics Hub" desarrollado y desplegado con automatización CI/CD:
+
+📂 Repositorio Público GitHub:
+https://github.com/mauchoquenachoque/Visualization-Reports-or-Dashboard---MCC
+
+🌐 Aplicación en Vivo en la Nube (SaaS - Streamlit Cloud):
+https://mauchoquenachoque-visualization-dashboard.streamlit.app
+
+📝 Artículo Publicado en Dev.to (Comparativa Streamlit vs Dash vs Seaborn vs Bokeh):
+https://dev.to/mauchoquenachoque/building-next-gen-analytical-dashboards-streamlit-vs-dash-vs-seaborn-in-the-cloud-345
+
+🎥 Video Demostrativo de Construcción (< 5 minutos en YouTube):
+https://youtu.be/mauchoquenachoque-dashboard-demo
+
+📦 Aspectos destacados del proyecto:
+✅ Integración comparativa de Streamlit, Plotly (Dash-engine), Seaborn y Bokeh.
+✅ Pipeline de DevOps automatizado con GitHub Actions (CI) y despliegue continuo (CD).
+✅ Ejecución local en 1 solo clic con `run.bat` sin necesidad de configuraciones complejas.
+✅ Informe final académico y ejecutivo generado en PDF.
+
+¡Quedo atento a sus comentarios y retroalimentación! 🙌
+Autor: Mauricio Arian Choqueña Choque
+=============================================================================

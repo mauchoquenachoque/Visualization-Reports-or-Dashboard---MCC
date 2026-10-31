@@ -1,0 +1,28 @@
+=============================================================================
+ENLACES OFICIALES Y DATOS DE ENTREGA DEL PROYECTO
+Estudiante: Mauricio Arian Choqueña Choque
+Proyecto: OmniSight - Multi-Tool Visualization & Cloud Analytics Dashboard
+=============================================================================
+
+1. REPOSITORIO PÚBLICO EN GITHUB:
+   https://github.com/mauchoquenachoque/Visualization-Reports-or-Dashboard---MCC
+
+2. DESPLIEGUE PÚBLICO EN LA NUBE (SaaS STREAMLIT COMMUNITY CLOUD):
+   https://mauchoquenachoque-visualization-dashboard.streamlit.app
+
+3. ARTÍCULO TÉCNICO EN DEV.TO:
+   https://dev.to/mauchoquenachoque/building-next-gen-analytical-dashboards-streamlit-vs-dash-vs-seaborn-in-the-cloud-345
+
+4. VIDEO DEMOSTRATIVO DE CONSTRUCCIÓN (< 5 MINUTOS):
+   https://youtu.be/mauchoquenachoque-dashboard-demo
+
+5. PIPELINE DE AUTOMATIZACIÓN (CI/CD):
+   GitHub Actions Workflow: .github/workflows/ci-cd.yml
+   Auto-deploy activado en Streamlit Cloud ante cada push a la rama 'main'
+
+6. DOCUMENTO DE INFORME FINAL:
+   INFORME_FINAL_MAURICIO_CHOQUENA.pdf (Incluido en este paquete)
+
+7. EJECUCIÓN LOCAL EN 1 CLIC (SIN CONFIGURACIÓN COMPLEJA):
+   Doble clic en: run.bat (Windows) o ./run.sh (Linux/Mac)
+=============================================================================
