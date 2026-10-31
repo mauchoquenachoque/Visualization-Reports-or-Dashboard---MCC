@@ -1,11 +1,5 @@
 # OmniSight: Multi-Framework Visual Analytics Hub ⚡📊
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mauchoquenachoque-visualization-dashboard.streamlit.app)
-[![CI/CD Pipeline](https://github.com/mauchoquenachoque/Visualization-Reports-or-Dashboard---MCC/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/mauchoquenachoque/Visualization-Reports-or-Dashboard---MCC/actions)
-[![Dev.to Article](https://img.shields.io/badge/Dev.to-Read%20Article-0a0a0a?logo=devdotto)](https://dev.to/mauchoquenachoque/building-next-gen-analytical-dashboards-streamlit-vs-dash-vs-seaborn-in-the-cloud-345)
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo%20(%3C5m)-red?logo=youtube)](https://youtu.be/mauchoquenachoque-dashboard-demo)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.14-blue.svg)](https://www.python.org/)
 
 **OmniSight** es una plataforma integral de analítica visual y panel de control (Dashboard) empresarial desarrollada por **Mauricio Arian Choqueña Choque**. El proyecto implementa, compara y unifica de manera armónica las principales herramientas del ecosistema de datos: **Streamlit**, **Plotly (Dash Engine)**, **Seaborn**, **Matplotlib** y **Bokeh**, integrando un flujo automatizado de entrega continua (**CI/CD con GitHub Actions**) hacia la nube (**Streamlit Community Cloud** y **Render SaaS**).
 
