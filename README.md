@@ -19,10 +19,8 @@
 | :--- | :--- |
 | 🌐 **Aplicación en Vivo (Cloud SaaS)** | [mauchoquenachoque-visualization-dashboard.streamlit.app](https://mauchoquenachoque-visualization-dashboard.streamlit.app) |
 | 📂 **Repositorio Público GitHub** | [github.com/mauchoquenachoque/Visualization-Reports-or-Dashboard---MCC](https://github.com/mauchoquenachoque/Visualization-Reports-or-Dashboard---MCC) |
-| 📝 **Artículo Técnico en Dev.to** | [Leer en Dev.to](https://dev.to/mauchoquenachoque/building-next-gen-analytical-dashboards-streamlit-vs-dash-vs-seaborn-in-the-cloud-345) |
-| 🎥 **Video Demostrativo (< 5 min)** | [Ver en YouTube](https://youtu.be/mauchoquenachoque-dashboard-demo) |
-| 🎓 **Informe Académico en PDF** | [`INFORME_FINAL_MAURICIO_CHOQUENA.pdf`](INFORME_FINAL_MAURICIO_CHOQUENA.pdf) |
-| 💬 **Mensaje para Telegram** | [`telegram_message.txt`](telegram_message.txt) |
+| 📝 **Artículo Técnico en Dev.to** | [Leer en Dev.to](https://dev.to/mauricio_arianchoqueac/building-deploying-next-gen-analytical-dashboards-streamlit-vs-dash-vs-seaborn-in-the-cloud-4l1a) |
+
 
 ---
 
